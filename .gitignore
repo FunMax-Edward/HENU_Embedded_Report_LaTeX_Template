@@ -1,0 +1,16 @@
+﻿# LaTeX temporary files
+*.aux
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.synctex.gz
+*.toc
+*.xdv
+*.bbl
+*.blg
+
+# Editors and operating systems
+.vscode/*.log
+.DS_Store
+Thumbs.db
